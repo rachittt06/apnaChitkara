@@ -1,3 +1,4 @@
 # apnaChitkara
-This is my first Git Repository
-Rachit Gupta
+This is my first Git Repository.
+<br>
+Author - Rachit Gupta
